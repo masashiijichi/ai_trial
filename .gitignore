@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# API keys - never commit these
+*_api_key.txt
+*.key
+
+# Large output files
+data-out/
+data-modified/
+values/
+draft/figures/
+
+# OS files
+.DS_Store
+Thumbs.db
